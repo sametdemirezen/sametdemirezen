@@ -4,26 +4,26 @@ I'm a passionate IT student with a deep interest in designing and developing cap
 
 At present, I am working extensively with React and am in the process of creating various projects that showcase my creativity and technical expertise. I enjoy turning complex problems into simple, beautiful, and intuitive interface designs. When I'm not coding, you'll find me exploring the latest tech advancements in the world of web development.
 
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= "https://github.com/sametdemirezen?tab=repositories&q=&type=&language=reactjs&sort=" style="margin: 10px;"> 
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> 
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href= "https://github.com/sametdemirezen?tab=repositories&q=&type=&language=javascript&sort=" style="margin: 10px;"> 
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> 
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href= "https://github.com/sametdemirezen?tab=repositories&q=&type=&language=css&sort=" style="margin: 10px;"> 
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> 
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href= "https://github.com/sametdemirezen?tab=repositories&q=&type=&language=html&sort=" style="margin: 10px;"> 
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> 
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/sametdemirezen?tab=repositories&q=&type=&language=go&sort=" style="margin: 10px;"> 
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg"> 
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/sametdemirezen?tab=repositories&q=&type=&language=java&sort=" style="margin: 10px;"> 
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg"> 
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 - 🌱 I’m currently learning React 

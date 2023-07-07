@@ -4,7 +4,6 @@ I'm a passionate IT student with a deep interest in designing and developing cap
 
 At present, I am working extensively with React and am in the process of creating various projects that showcase my creativity and technical expertise. I enjoy turning complex problems into simple, beautiful, and intuitive interface designs. When I'm not coding, you'll find me exploring the latest tech advancements in the world of web development.
 
-<br>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= "https://github.com/sametdemirezen?tab=repositories&q=&type=&language=reactjs&sort=" style="margin: 10px;"> 
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> 
@@ -25,16 +24,12 @@ At present, I am working extensively with React and am in the process of creatin
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg"> 
 </a>
 <br>
-
-
 - 🌱 I’m currently learning React 
 - 📫 How to reach me: sametdemirezen16@gmail.com 
-
 <br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sametdemirezen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samet-demirezen-8085b912b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/demirezen_samet/)  
-
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
-<br>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sametdemirezen&show_icons=true&count_private=true)   
 <br>
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sametdemirezen)  

@@ -1,40 +1,24 @@
 ### Hi there 👋
-
-<!--
-**sametdemirezen/sametdemirezen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Absolutely! Here's a draft "About Me" section you can use and modify as you see fit:
-
-markdown
-Copy code
-# Hi, I'm [Your Name] 👋
-
+### Hi there 👋, Samet Demirezen
+#### Design and Development
 I'm a passionate IT student with a deep interest in designing and developing captivating user interfaces. I am currently a junior developer, constantly learning and improving my skills to become more proficient in my field.
 
 At present, I am working extensively with React and am in the process of creating various projects that showcase my creativity and technical expertise. I enjoy turning complex problems into simple, beautiful, and intuitive interface designs. When I'm not coding, you'll find me exploring the latest tech advancements in the world of web development.
 
-## 🛠️ My Skills
-- Frontend: HTML, CSS, JavaScript, React.js
-<!-- Add any other skills or frameworks you are familiar with -->
 
-## 💻 I’m currently working on
-- Improving my React skills and building interesting web applications.
-- Expanding my understanding of user interface and user experience design.
+Skills: REACT / JS / HTML / CSS / JAVA / GO
 
-## 📫 How to reach me
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
+- 🌱 I’m currently learning React 
+- 📫 How to reach me: sametdemirezen16@gmail.com 
 
-I'm open to collaborate on projects, contribute to open-source or just chat about tech. Feel free to contact me!
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sametdemirezen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samet-demirezen-8085b912b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/demirezen_samet/)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sametdemirezen&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sametdemirezen)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=sametdemirezen)  
+

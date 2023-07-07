@@ -23,7 +23,9 @@ At present, I am working extensively with React and am in the process of creatin
 <a href="https://github.com/sametdemirezen?tab=repositories&q=&type=&language=java&sort=" style="margin: 10px;"> 
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg"> 
 </a>
+<br>
 - 🌱 I’m currently learning React 
+<br>
 - 📫 How to reach me: sametdemirezen16@gmail.com 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sametdemirezen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samet-demirezen-8085b912b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/demirezen_samet/)  

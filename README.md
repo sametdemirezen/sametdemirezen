@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Hi there 👋, Samet Demirezen
 #### Design and Development
 I'm a passionate IT student with a deep interest in designing and developing captivating user interfaces. I am currently a junior developer, constantly learning and improving my skills to become more proficient in my field.

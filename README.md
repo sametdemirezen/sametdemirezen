@@ -23,7 +23,6 @@ At present, I am working extensively with React and am in the process of creatin
 <a href="https://github.com/sametdemirezen?tab=repositories&q=&type=&language=java&sort=" style="margin: 10px;"> 
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg"> 
 </a>
-<br>
 - 🌱 I’m currently learning React 
 - 📫 How to reach me: sametdemirezen16@gmail.com 
 

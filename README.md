@@ -1,8 +1,6 @@
 ### Hi there 👋, Samet Demirezen
 #### Design and Development
-I'm a passionate IT student with a deep interest in designing and developing captivating user interfaces. I am currently a junior developer, constantly learning and improving my skills to become more proficient in my field.
-
-At present, I am working extensively with React and am in the process of creating various projects that showcase my creativity and technical expertise. I enjoy turning complex problems into simple, beautiful, and intuitive interface designs. When I'm not coding, you'll find me exploring the latest tech advancements in the world of web development.
+I'm a passionate junior fullstack developer  with a deep interest in designing and developing captivating user interfaces. I am currently working on different projects, constantly learning and improving my skills to become more proficient in my field.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= "https://github.com/sametdemirezen?tab=repositories&q=&type=&language=reactjs&sort=" style="margin: 10px;"> 
